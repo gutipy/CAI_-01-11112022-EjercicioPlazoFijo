@@ -1,0 +1,11 @@
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\obj\Debug\EjercicioPlazoFijo.Datos.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\obj\Debug\EjercicioPlazoFijo.Datos.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\EjercicioPlazoFijo.Datos.dll
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\EjercicioPlazoFijo.Datos.pdb
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\EjercicioPlazoFijo.Entidades.dll
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\EjercicioPlazoFijo.Entidades.pdb
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\obj\Debug\EjercicioPlazoFijo.Datos.csproj.CopyComplete
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\obj\Debug\EjercicioPlazoFijo.Datos.dll
+D:\Documents\GitHub\CAI_-01-11112022-EjercicioPlazoFijo\EjercicioPlazoFijo\EjercicioPlazoFijo.Datos\obj\Debug\EjercicioPlazoFijo.Datos.pdb
